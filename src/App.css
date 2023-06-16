@@ -56,3 +56,9 @@
   flex-direction: column;
   align-items: center;
 }
+
+.adjust-line-height {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
